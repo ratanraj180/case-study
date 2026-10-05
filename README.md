@@ -16,4 +16,4 @@ The converted amount will be displayed.
 ** Future Enhancements
 Fetch real-time exchange rates using an API.
 Add more currencies
-Improve UI/UX with better styling.
+Improve UI/UX with better stylig.
